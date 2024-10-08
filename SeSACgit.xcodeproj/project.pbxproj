@@ -51,7 +51,8 @@
 		D42D40E52CB4F6A400582494 /* SeSACgit */ = {
 			isa = PBXGroup;
 			children = (
-				D42D40F42CB4F89900582494 /* Den */,
+
+				D42D40F52CB4FA2100582494 /* Bran */,
 				D42D40EC2CB4F6A600582494 /* Preview Content */,
 			);
 			path = SeSACgit;
@@ -65,14 +66,17 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		D42D40F42CB4F89900582494 /* Den */ = {
+
+		D42D40F52CB4FA2100582494 /* Bran */ = {
 			isa = PBXGroup;
 			children = (
 				D42D40E62CB4F6A400582494 /* SeSACgitApp.swift */,
 				D42D40E82CB4F6A400582494 /* ContentView.swift */,
 				D42D40EA2CB4F6A600582494 /* Assets.xcassets */,
 			);
-			path = Den;
+
+			path = Bran;
+
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
